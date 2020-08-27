@@ -4,7 +4,7 @@
 
 - 🌱 I'm a backend engineer from Lviv, Ukraine.
 - 🏢 I'm currently working on **a lot of Docker related stuff :yum:**.
-- ⚙️ I use: `.py`, `.yml`.
-- 👀 I'm learning `.go`, `.ts`.
+- ⚙️ I use: `.py`.
+- 👀 I would like to learn `.go`, `.ts`.
 - 🍝 I used to work with `.java`.
 - 💅 Lover of Docker.
