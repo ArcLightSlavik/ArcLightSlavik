@@ -2,7 +2,7 @@
 
 <img align='right' src='https://media.giphy.com/media/TgHQOqCqf9GH6/giphy.gif' width='200"'>
 
-- 🤯 I work a lot with FastAPI, Docker, Asynchronous Python and Asynchronous Python Pipelines.
+- 🤯 I work a lot with Python Pipelines, Continious Integration, Localization infastructure.
 - ⚙️ I use: `.py`.
 - 👀 I would like to learn `.go`, `.ts`.
 - 🍝 I used to work with `.java`.
