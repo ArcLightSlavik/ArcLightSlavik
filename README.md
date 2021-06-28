@@ -6,7 +6,6 @@
 - ⚙️ I use: `.py`.
 - 👀 I would like to learn `.go`, `.ts`.
 - 🍝 I used to work with `.java`.
-- 💅 Lover of Docker.
 - 👀 Moderator and contributor at [FastAPI](https://github.com/tiangolo/fastapi).
 - :sassy_man: Meme master in FastAPI.
 - 📘 I write about tech and movies [Link](https://www.notion.so/Articles-1223ba74302a43f8ba4fc2cd42c1d621).
